@@ -1,0 +1,4 @@
+print('hi, I am John')
+print('I am new to python')
+print('Please help me')
+print("Its a request")
